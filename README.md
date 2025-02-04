@@ -70,7 +70,9 @@ plot_results()
 ## Results
 
 - Model performance metrics (mAP, FPS, etc.) will be added soon.
-- Sample output images will be included in a future update.
+- Sample output
+  ![image](https://github.com/user-attachments/assets/1103cbb8-3bba-4e29-823d-2bb31c07ffb6)
+
 
 ## License
 
